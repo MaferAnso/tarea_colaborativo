@@ -1,3 +1,10 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo
 
 MaferAnso.
+EvelynGtzR. 
+
+El repositorio actualizado se puede encontrar en las url's 
+
+https://github.com/MaferAnso/tarea_colaborativo
+
+https://github.com/EvelynGtzR/tarea_colaborativo
